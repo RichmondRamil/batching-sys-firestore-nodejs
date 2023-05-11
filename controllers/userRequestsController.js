@@ -1,7 +1,7 @@
 const admin = require('firebase-admin');
 const db = admin.firestore();
-// const batch = db.batch();
-// const ts = require('firebase-admin/firestore');
+const batch = db.batch();
+const ts = require('firebase-admin/firestore');
 
 const getAllUserRequest = async (req, res) => {
     try {
@@ -9,7 +9,7 @@ const getAllUserRequest = async (req, res) => {
             .collection('userRequestData')
             .where('status', 'in', [1, 3])
             .orderBy('id', 'asc')
-            .limit(200)
+            .limit(100)
             .get();
         const documents = snapshot.docs.map((doc) => doc.data());
 
@@ -48,15 +48,12 @@ const createUserRequest = async (req, res) => {
         };
         const response = await db.collection('userRequestData').doc().set(userRequests);
         res.status(201).json(response);
-
         // Accepts Only 500 records will
-        // const array =
-
+        // const array = []
         // array.forEach((doc) => {
         //     var docRef = db.collection('userRequestData').doc(); //automatically generate unique id
         //     batch.set(docRef, doc);
         // });
-
         // batch.commit();
     } catch (error) {
         res.json({ message: error });
@@ -66,17 +63,14 @@ const createUserRequest = async (req, res) => {
 const updateUserRequest = async (req, res) => {
     const updatedData = req.body;
     try {
-        // Iterate over each object in the array and update Firestore documents sequentially
         for (const obj of updatedData) {
             const identifier = obj.id;
 
-            // Query Firestore to retrieve the document that matches the identifier
             const querySnapshot = await db.collection('userRequestData').where('id', '==', identifier).limit(1).get();
 
             if (!querySnapshot.empty) {
                 const docRef = querySnapshot.docs[0].ref;
 
-                // Update the document with the new data
                 await docRef.update(obj);
 
                 console.log(`Document with ID ${docRef.id} has been updated.`);
@@ -90,7 +84,32 @@ const updateUserRequest = async (req, res) => {
     }
 };
 
-const deleteUserRequest = async (req, res) => {};
+const deleteUserRequest = async (req, res) => {
+    const oneWeekAgo = new Date();
+    oneWeekAgo.setDate(oneWeekAgo.getDate() - 7);
+
+    try {
+        const snapshot = await db.collection('userRequestData').where('requestData', '>=', oneWeekAgo).get();
+
+        if (snapshot.empty) {
+            res.status(200).json({ message: 'No matching records found.' });
+            return;
+        }
+
+        for (const doc of snapshot.docs) {
+            try {
+                await doc.ref.delete();
+            } catch (error) {
+                console.error('Error deleting document:', error);
+            }
+        }
+
+        res.status(200).json({ message: 'Matching records deleted successfully.' });
+    } catch (error) {
+        console.error('Error deleting records:', error);
+        res.status(500).json({ error: 'Failed to delete records.' });
+    }
+};
 
 const getUserRequest = async (req, res) => {
     try {

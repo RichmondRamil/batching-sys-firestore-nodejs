@@ -9,8 +9,8 @@ const job = new CronJob('1 * * * * *', async function () {
         if (userRequests.length > 0) {
             let successArr = [];
             let errorArr = [];
-            for (let i = 0; i < userRequests.length; i += 20) {
-                const chunks = userRequests.slice(i, i + 20);
+            for (let i = 0; i < userRequests.length; i += 10) {
+                const chunks = userRequests.slice(i, i + 10);
 
                 const { status } = await axios.post(
                     'https://webhook.site/e7fb8853-a7af-45f4-8a30-64b429cd9131',
@@ -30,18 +30,17 @@ const job = new CronJob('1 * * * * *', async function () {
                 }
             }
 
-            console.log(successArr);
-            console.log(errorArr);
-
-            // await processBatchResults(successArr, errorArr);
+            await processBatchResults(successArr, errorArr);
+            await axios.delete('http://localhost:5050/requests');
             dateTimeResponse();
+            console.log('Finished to Process');
         }
     } catch (error) {
         console.log(error);
     }
 });
 
-// job.start();
+job.start();
 
 function updateStatus(records, status) {
     const updatedRecords = records.map((record) => ({
