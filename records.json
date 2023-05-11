@@ -1,0 +1,6503 @@
+[
+    {
+        "id": 0,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1540",
+        "input-3": "0",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 1,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1541",
+        "input-3": "1",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 2,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1542",
+        "input-3": "2",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 3,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1543",
+        "input-3": "3",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 4,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1544",
+        "input-3": "4",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 5,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1545",
+        "input-3": "5",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 6,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1546",
+        "input-3": "6",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 7,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1547",
+        "input-3": "7",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 8,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1548",
+        "input-3": "8",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 9,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1549",
+        "input-3": "9",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 10,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1550",
+        "input-3": "10",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 11,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1551",
+        "input-3": "11",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 12,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1552",
+        "input-3": "12",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 13,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1553",
+        "input-3": "13",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 14,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1554",
+        "input-3": "14",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 15,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1555",
+        "input-3": "15",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 16,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1556",
+        "input-3": "16",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 17,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1557",
+        "input-3": "17",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 18,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1558",
+        "input-3": "18",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 19,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1559",
+        "input-3": "19",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 20,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1560",
+        "input-3": "20",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 21,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1561",
+        "input-3": "21",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 22,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1562",
+        "input-3": "22",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 23,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1563",
+        "input-3": "23",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 24,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1564",
+        "input-3": "24",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 25,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1565",
+        "input-3": "25",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 26,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1566",
+        "input-3": "26",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 27,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1567",
+        "input-3": "27",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 28,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1568",
+        "input-3": "28",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 29,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1569",
+        "input-3": "29",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 30,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1570",
+        "input-3": "30",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 31,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1571",
+        "input-3": "31",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 32,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1572",
+        "input-3": "32",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 33,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1573",
+        "input-3": "33",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 34,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1574",
+        "input-3": "34",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 35,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1575",
+        "input-3": "35",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 36,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1576",
+        "input-3": "36",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 37,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1577",
+        "input-3": "37",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 38,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1578",
+        "input-3": "38",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 39,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1579",
+        "input-3": "39",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 40,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1580",
+        "input-3": "40",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 41,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1581",
+        "input-3": "41",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 42,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1582",
+        "input-3": "42",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 43,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1583",
+        "input-3": "43",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 44,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1584",
+        "input-3": "44",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 45,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1585",
+        "input-3": "45",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 46,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1586",
+        "input-3": "46",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 47,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1587",
+        "input-3": "47",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 48,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1588",
+        "input-3": "48",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 49,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1589",
+        "input-3": "49",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 50,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1590",
+        "input-3": "50",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 51,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1591",
+        "input-3": "51",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 52,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1592",
+        "input-3": "52",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 53,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1593",
+        "input-3": "53",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 54,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1594",
+        "input-3": "54",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 55,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1595",
+        "input-3": "55",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 56,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1596",
+        "input-3": "56",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 57,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1597",
+        "input-3": "57",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 58,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1598",
+        "input-3": "58",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 59,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1599",
+        "input-3": "59",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 60,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1600",
+        "input-3": "60",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 61,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1601",
+        "input-3": "61",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 62,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1602",
+        "input-3": "62",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 63,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1603",
+        "input-3": "63",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 64,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1604",
+        "input-3": "64",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 65,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1605",
+        "input-3": "65",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 66,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1606",
+        "input-3": "66",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 67,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1607",
+        "input-3": "67",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 68,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1608",
+        "input-3": "68",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 69,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1609",
+        "input-3": "69",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 70,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1610",
+        "input-3": "70",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 71,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1611",
+        "input-3": "71",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 72,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1612",
+        "input-3": "72",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 73,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1613",
+        "input-3": "73",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 74,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1614",
+        "input-3": "74",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 75,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1615",
+        "input-3": "75",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 76,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1616",
+        "input-3": "76",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 77,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1617",
+        "input-3": "77",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 78,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1618",
+        "input-3": "78",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 79,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1619",
+        "input-3": "79",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 80,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1620",
+        "input-3": "80",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 81,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1621",
+        "input-3": "81",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 82,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1622",
+        "input-3": "82",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 83,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1623",
+        "input-3": "83",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 84,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1624",
+        "input-3": "84",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 85,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1625",
+        "input-3": "85",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 86,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1626",
+        "input-3": "86",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 87,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1627",
+        "input-3": "87",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 88,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1628",
+        "input-3": "88",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 89,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1629",
+        "input-3": "89",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 90,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1630",
+        "input-3": "90",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 91,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1631",
+        "input-3": "91",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 92,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1632",
+        "input-3": "92",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 93,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1633",
+        "input-3": "93",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 94,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1634",
+        "input-3": "94",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 95,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1635",
+        "input-3": "95",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 96,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1636",
+        "input-3": "96",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 97,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1637",
+        "input-3": "97",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 98,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1638",
+        "input-3": "98",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 99,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1639",
+        "input-3": "99",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 100,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1640",
+        "input-3": "100",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 101,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1641",
+        "input-3": "101",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 102,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1642",
+        "input-3": "102",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 103,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1643",
+        "input-3": "103",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 104,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1644",
+        "input-3": "104",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 105,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1645",
+        "input-3": "105",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 106,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1646",
+        "input-3": "106",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 107,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1647",
+        "input-3": "107",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 108,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1648",
+        "input-3": "108",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 109,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1649",
+        "input-3": "109",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 110,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1650",
+        "input-3": "110",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 111,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1651",
+        "input-3": "111",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 112,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1652",
+        "input-3": "112",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 113,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1653",
+        "input-3": "113",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 114,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1654",
+        "input-3": "114",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 115,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1655",
+        "input-3": "115",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 116,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1656",
+        "input-3": "116",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 117,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1657",
+        "input-3": "117",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 118,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1658",
+        "input-3": "118",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 119,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1659",
+        "input-3": "119",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 120,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1660",
+        "input-3": "120",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 121,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1661",
+        "input-3": "121",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 122,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1662",
+        "input-3": "122",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 123,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1663",
+        "input-3": "123",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 124,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1664",
+        "input-3": "124",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 125,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1665",
+        "input-3": "125",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 126,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1666",
+        "input-3": "126",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 127,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1667",
+        "input-3": "127",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 128,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1668",
+        "input-3": "128",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 129,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1669",
+        "input-3": "129",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 130,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1670",
+        "input-3": "130",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 131,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1671",
+        "input-3": "131",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 132,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1672",
+        "input-3": "132",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 133,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1673",
+        "input-3": "133",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 134,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1674",
+        "input-3": "134",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 135,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1675",
+        "input-3": "135",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 136,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1676",
+        "input-3": "136",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 137,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1677",
+        "input-3": "137",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 138,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1678",
+        "input-3": "138",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 139,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1679",
+        "input-3": "139",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 140,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1680",
+        "input-3": "140",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 141,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1681",
+        "input-3": "141",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 142,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1682",
+        "input-3": "142",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 143,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1683",
+        "input-3": "143",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 144,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1684",
+        "input-3": "144",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 145,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1685",
+        "input-3": "145",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 146,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1686",
+        "input-3": "146",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 147,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1687",
+        "input-3": "147",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 148,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1688",
+        "input-3": "148",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 149,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1689",
+        "input-3": "149",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 150,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1690",
+        "input-3": "150",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 151,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1691",
+        "input-3": "151",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 152,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1692",
+        "input-3": "152",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 153,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1693",
+        "input-3": "153",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 154,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1694",
+        "input-3": "154",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 155,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1695",
+        "input-3": "155",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 156,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1696",
+        "input-3": "156",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 157,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1697",
+        "input-3": "157",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 158,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1698",
+        "input-3": "158",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 159,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1699",
+        "input-3": "159",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 160,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1700",
+        "input-3": "160",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 161,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1701",
+        "input-3": "161",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 162,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1702",
+        "input-3": "162",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 163,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1703",
+        "input-3": "163",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 164,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1704",
+        "input-3": "164",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 165,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1705",
+        "input-3": "165",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 166,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1706",
+        "input-3": "166",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 167,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1707",
+        "input-3": "167",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 168,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1708",
+        "input-3": "168",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 169,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1709",
+        "input-3": "169",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 170,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1710",
+        "input-3": "170",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 171,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1711",
+        "input-3": "171",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 172,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1712",
+        "input-3": "172",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 173,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1713",
+        "input-3": "173",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 174,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1714",
+        "input-3": "174",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 175,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1715",
+        "input-3": "175",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 176,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1716",
+        "input-3": "176",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 177,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1717",
+        "input-3": "177",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 178,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1718",
+        "input-3": "178",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 179,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1719",
+        "input-3": "179",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 180,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1720",
+        "input-3": "180",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 181,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1721",
+        "input-3": "181",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 182,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1722",
+        "input-3": "182",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 183,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1723",
+        "input-3": "183",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 184,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1724",
+        "input-3": "184",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 185,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1725",
+        "input-3": "185",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 186,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1726",
+        "input-3": "186",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 187,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1727",
+        "input-3": "187",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 188,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1728",
+        "input-3": "188",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 189,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1729",
+        "input-3": "189",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 190,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1730",
+        "input-3": "190",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 191,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1731",
+        "input-3": "191",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 192,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1732",
+        "input-3": "192",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 193,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1733",
+        "input-3": "193",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 194,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1734",
+        "input-3": "194",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 195,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1735",
+        "input-3": "195",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 196,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1736",
+        "input-3": "196",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 197,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1737",
+        "input-3": "197",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 198,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1738",
+        "input-3": "198",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 199,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1739",
+        "input-3": "199",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 200,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1740",
+        "input-3": "200",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 201,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1741",
+        "input-3": "201",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 202,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1742",
+        "input-3": "202",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 203,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1743",
+        "input-3": "203",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 204,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1744",
+        "input-3": "204",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 205,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1745",
+        "input-3": "205",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 206,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1746",
+        "input-3": "206",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 207,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1747",
+        "input-3": "207",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 208,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1748",
+        "input-3": "208",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 209,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1749",
+        "input-3": "209",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 210,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1750",
+        "input-3": "210",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 211,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1751",
+        "input-3": "211",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 212,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1752",
+        "input-3": "212",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 213,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1753",
+        "input-3": "213",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 214,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1754",
+        "input-3": "214",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 215,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1755",
+        "input-3": "215",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 216,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1756",
+        "input-3": "216",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 217,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1757",
+        "input-3": "217",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 218,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1758",
+        "input-3": "218",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 219,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1759",
+        "input-3": "219",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 220,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1760",
+        "input-3": "220",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 221,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1761",
+        "input-3": "221",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 222,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1762",
+        "input-3": "222",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 223,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1763",
+        "input-3": "223",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 224,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1764",
+        "input-3": "224",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 225,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1765",
+        "input-3": "225",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 226,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1766",
+        "input-3": "226",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 227,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1767",
+        "input-3": "227",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 228,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1768",
+        "input-3": "228",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 229,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1769",
+        "input-3": "229",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 230,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1770",
+        "input-3": "230",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 231,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1771",
+        "input-3": "231",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 232,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1772",
+        "input-3": "232",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 233,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1773",
+        "input-3": "233",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 234,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1774",
+        "input-3": "234",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 235,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1775",
+        "input-3": "235",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 236,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1776",
+        "input-3": "236",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 237,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1777",
+        "input-3": "237",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 238,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1778",
+        "input-3": "238",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 239,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1779",
+        "input-3": "239",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 240,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1780",
+        "input-3": "240",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 241,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1781",
+        "input-3": "241",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 242,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1782",
+        "input-3": "242",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 243,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1783",
+        "input-3": "243",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 244,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1784",
+        "input-3": "244",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 245,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1785",
+        "input-3": "245",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 246,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1786",
+        "input-3": "246",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 247,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1787",
+        "input-3": "247",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 248,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1788",
+        "input-3": "248",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 249,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1789",
+        "input-3": "249",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 250,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1790",
+        "input-3": "250",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 251,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1791",
+        "input-3": "251",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 252,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1792",
+        "input-3": "252",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 253,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1793",
+        "input-3": "253",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 254,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1794",
+        "input-3": "254",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 255,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1795",
+        "input-3": "255",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 256,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1796",
+        "input-3": "256",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 257,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1797",
+        "input-3": "257",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 258,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1798",
+        "input-3": "258",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 259,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1799",
+        "input-3": "259",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 260,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1800",
+        "input-3": "260",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 261,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1801",
+        "input-3": "261",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 262,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1802",
+        "input-3": "262",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 263,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1803",
+        "input-3": "263",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 264,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1804",
+        "input-3": "264",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 265,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1805",
+        "input-3": "265",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 266,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1806",
+        "input-3": "266",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 267,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1807",
+        "input-3": "267",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 268,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1808",
+        "input-3": "268",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 269,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1809",
+        "input-3": "269",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 270,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1810",
+        "input-3": "270",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 271,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1811",
+        "input-3": "271",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 272,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1812",
+        "input-3": "272",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 273,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1813",
+        "input-3": "273",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 274,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1814",
+        "input-3": "274",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 275,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1815",
+        "input-3": "275",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 276,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1816",
+        "input-3": "276",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 277,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1817",
+        "input-3": "277",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 278,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1818",
+        "input-3": "278",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 279,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1819",
+        "input-3": "279",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 280,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1820",
+        "input-3": "280",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 281,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1821",
+        "input-3": "281",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 282,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1822",
+        "input-3": "282",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 283,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1823",
+        "input-3": "283",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 284,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1824",
+        "input-3": "284",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 285,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1825",
+        "input-3": "285",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 286,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1826",
+        "input-3": "286",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 287,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1827",
+        "input-3": "287",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 288,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1828",
+        "input-3": "288",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 289,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1829",
+        "input-3": "289",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 290,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1830",
+        "input-3": "290",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 291,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1831",
+        "input-3": "291",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 292,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1832",
+        "input-3": "292",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 293,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1833",
+        "input-3": "293",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 294,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1834",
+        "input-3": "294",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 295,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1835",
+        "input-3": "295",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 296,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1836",
+        "input-3": "296",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 297,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1837",
+        "input-3": "297",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 298,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1838",
+        "input-3": "298",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 299,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1839",
+        "input-3": "299",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 300,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1840",
+        "input-3": "300",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 301,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1841",
+        "input-3": "301",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 302,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1842",
+        "input-3": "302",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 303,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1843",
+        "input-3": "303",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 304,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1844",
+        "input-3": "304",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 305,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1845",
+        "input-3": "305",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 306,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1846",
+        "input-3": "306",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 307,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1847",
+        "input-3": "307",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 308,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1848",
+        "input-3": "308",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 309,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1849",
+        "input-3": "309",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 310,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1850",
+        "input-3": "310",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 311,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1851",
+        "input-3": "311",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 312,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1852",
+        "input-3": "312",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 313,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1853",
+        "input-3": "313",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 314,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1854",
+        "input-3": "314",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 315,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1855",
+        "input-3": "315",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 316,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1856",
+        "input-3": "316",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 317,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1857",
+        "input-3": "317",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 318,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1858",
+        "input-3": "318",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 319,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1859",
+        "input-3": "319",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 320,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1860",
+        "input-3": "320",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 321,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1861",
+        "input-3": "321",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 322,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1862",
+        "input-3": "322",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 323,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1863",
+        "input-3": "323",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 324,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1864",
+        "input-3": "324",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 325,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1865",
+        "input-3": "325",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 326,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1866",
+        "input-3": "326",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 327,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1867",
+        "input-3": "327",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 328,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1868",
+        "input-3": "328",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 329,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1869",
+        "input-3": "329",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 330,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1870",
+        "input-3": "330",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 331,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1871",
+        "input-3": "331",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 332,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1872",
+        "input-3": "332",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 333,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1873",
+        "input-3": "333",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 334,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1874",
+        "input-3": "334",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 335,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1875",
+        "input-3": "335",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 336,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1876",
+        "input-3": "336",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 337,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1877",
+        "input-3": "337",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 338,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1878",
+        "input-3": "338",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 339,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1879",
+        "input-3": "339",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 340,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1880",
+        "input-3": "340",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 341,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1881",
+        "input-3": "341",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 342,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1882",
+        "input-3": "342",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 343,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1883",
+        "input-3": "343",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 344,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1884",
+        "input-3": "344",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 345,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1885",
+        "input-3": "345",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 346,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1886",
+        "input-3": "346",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 347,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1887",
+        "input-3": "347",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 348,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1888",
+        "input-3": "348",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 349,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1889",
+        "input-3": "349",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 350,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1890",
+        "input-3": "350",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 351,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1891",
+        "input-3": "351",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 352,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1892",
+        "input-3": "352",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 353,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1893",
+        "input-3": "353",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 354,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1894",
+        "input-3": "354",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 355,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1895",
+        "input-3": "355",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 356,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1896",
+        "input-3": "356",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 357,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1897",
+        "input-3": "357",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 358,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1898",
+        "input-3": "358",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 359,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1899",
+        "input-3": "359",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 360,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1900",
+        "input-3": "360",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 361,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1901",
+        "input-3": "361",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 362,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1902",
+        "input-3": "362",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 363,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1903",
+        "input-3": "363",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 364,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1904",
+        "input-3": "364",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 365,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1905",
+        "input-3": "365",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 366,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1906",
+        "input-3": "366",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 367,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1907",
+        "input-3": "367",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 368,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1908",
+        "input-3": "368",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 369,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1909",
+        "input-3": "369",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 370,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1910",
+        "input-3": "370",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 371,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1911",
+        "input-3": "371",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 372,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1912",
+        "input-3": "372",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 373,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1913",
+        "input-3": "373",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 374,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1914",
+        "input-3": "374",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 375,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1915",
+        "input-3": "375",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 376,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1916",
+        "input-3": "376",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 377,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1917",
+        "input-3": "377",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 378,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1918",
+        "input-3": "378",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 379,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1919",
+        "input-3": "379",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 380,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1920",
+        "input-3": "380",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 381,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1921",
+        "input-3": "381",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 382,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1922",
+        "input-3": "382",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 383,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1923",
+        "input-3": "383",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 384,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1924",
+        "input-3": "384",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 385,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1925",
+        "input-3": "385",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 386,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1926",
+        "input-3": "386",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 387,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1927",
+        "input-3": "387",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 388,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1928",
+        "input-3": "388",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 389,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1929",
+        "input-3": "389",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 390,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1930",
+        "input-3": "390",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 391,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1931",
+        "input-3": "391",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 392,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1932",
+        "input-3": "392",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 393,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1933",
+        "input-3": "393",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 394,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1934",
+        "input-3": "394",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 395,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1935",
+        "input-3": "395",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 396,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1936",
+        "input-3": "396",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 397,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1937",
+        "input-3": "397",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 398,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1938",
+        "input-3": "398",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 399,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1939",
+        "input-3": "399",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 400,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1940",
+        "input-3": "400",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 401,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1941",
+        "input-3": "401",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 402,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1942",
+        "input-3": "402",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 403,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1943",
+        "input-3": "403",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 404,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1944",
+        "input-3": "404",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 405,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1945",
+        "input-3": "405",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 406,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1946",
+        "input-3": "406",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 407,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1947",
+        "input-3": "407",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 408,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1948",
+        "input-3": "408",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 409,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1949",
+        "input-3": "409",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 410,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1950",
+        "input-3": "410",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 411,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1951",
+        "input-3": "411",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 412,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1952",
+        "input-3": "412",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 413,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1953",
+        "input-3": "413",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 414,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1954",
+        "input-3": "414",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 415,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1955",
+        "input-3": "415",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 416,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1956",
+        "input-3": "416",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 417,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1957",
+        "input-3": "417",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 418,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1958",
+        "input-3": "418",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 419,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1959",
+        "input-3": "419",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 420,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1960",
+        "input-3": "420",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 421,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1961",
+        "input-3": "421",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 422,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1962",
+        "input-3": "422",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 423,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1963",
+        "input-3": "423",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 424,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1964",
+        "input-3": "424",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 425,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1965",
+        "input-3": "425",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 426,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1966",
+        "input-3": "426",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 427,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1967",
+        "input-3": "427",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 428,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1968",
+        "input-3": "428",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 429,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1969",
+        "input-3": "429",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 430,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1970",
+        "input-3": "430",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 431,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1971",
+        "input-3": "431",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 432,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1972",
+        "input-3": "432",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 433,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1973",
+        "input-3": "433",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 434,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1974",
+        "input-3": "434",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 435,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1975",
+        "input-3": "435",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 436,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1976",
+        "input-3": "436",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 437,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1977",
+        "input-3": "437",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 438,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1978",
+        "input-3": "438",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 439,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1979",
+        "input-3": "439",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 440,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1980",
+        "input-3": "440",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 441,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1981",
+        "input-3": "441",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 442,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1982",
+        "input-3": "442",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 443,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1983",
+        "input-3": "443",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 444,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1984",
+        "input-3": "444",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 445,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1985",
+        "input-3": "445",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 446,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1986",
+        "input-3": "446",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 447,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1987",
+        "input-3": "447",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 448,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1988",
+        "input-3": "448",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 449,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1989",
+        "input-3": "449",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 450,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1990",
+        "input-3": "450",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 451,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1991",
+        "input-3": "451",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 452,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1992",
+        "input-3": "452",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 453,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1993",
+        "input-3": "453",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 454,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1994",
+        "input-3": "454",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 455,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1995",
+        "input-3": "455",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 456,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1996",
+        "input-3": "456",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 457,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1997",
+        "input-3": "457",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 458,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1998",
+        "input-3": "458",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 459,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "1999",
+        "input-3": "459",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 460,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "2000",
+        "input-3": "460",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 461,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "2001",
+        "input-3": "461",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 462,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "2002",
+        "input-3": "462",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 463,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "2003",
+        "input-3": "463",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 464,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "2004",
+        "input-3": "464",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 465,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "2005",
+        "input-3": "465",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 466,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "2006",
+        "input-3": "466",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 467,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "2007",
+        "input-3": "467",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 468,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "2008",
+        "input-3": "468",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 469,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "2009",
+        "input-3": "469",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 470,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "2010",
+        "input-3": "470",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 471,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "2011",
+        "input-3": "471",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 472,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "2012",
+        "input-3": "472",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 473,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "2013",
+        "input-3": "473",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 474,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "2014",
+        "input-3": "474",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 475,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "2015",
+        "input-3": "475",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 476,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "2016",
+        "input-3": "476",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 477,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "2017",
+        "input-3": "477",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 478,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "2018",
+        "input-3": "478",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 479,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "2019",
+        "input-3": "479",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 480,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "2020",
+        "input-3": "480",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 481,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "2021",
+        "input-3": "481",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 482,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "2022",
+        "input-3": "482",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 483,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "2023",
+        "input-3": "483",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 484,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "2024",
+        "input-3": "484",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 485,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "2025",
+        "input-3": "485",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 486,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "2026",
+        "input-3": "486",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 487,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "2027",
+        "input-3": "487",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 488,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "2028",
+        "input-3": "488",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 489,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "2029",
+        "input-3": "489",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 490,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "2030",
+        "input-3": "490",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 491,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "2031",
+        "input-3": "491",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 492,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "2032",
+        "input-3": "492",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 493,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "2033",
+        "input-3": "493",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 494,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "2034",
+        "input-3": "494",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 495,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "2035",
+        "input-3": "495",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 496,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "2036",
+        "input-3": "496",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 497,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "2037",
+        "input-3": "497",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 498,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "2038",
+        "input-3": "498",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+    {
+        "id": 499,
+        "__metadata": {
+            "jName": "CJBA Release v2.0",
+            "jVer": "vTest1"
+        },
+        "input-0": 200,
+        "input-1": "Daily Race Token",
+        "input-2": "2039",
+        "input-3": "499",
+        "requestedDate": ts.FieldValue.serverTimestamp(),
+        "status": 1
+    },
+   
+]
