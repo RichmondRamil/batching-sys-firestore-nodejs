@@ -5,12 +5,13 @@ const { format } = require('date-fns');
 const job = new CronJob('1 * * * * *', async function () {
     try {
         const { data: userRequests } = await axios.get('http://localhost:5050/requests');
+        const { exceedsRequest, needsToProcess } = separateDataByAttempt(userRequests);
 
-        if (userRequests.length > 0) {
+        if (needsToProcess.length || exceedsRequest.length) {
             let successArr = [];
             let errorArr = [];
-            for (let i = 0; i < userRequests.length; i += 10) {
-                const chunks = userRequests.slice(i, i + 10);
+            for (let i = 0; i < needsToProcess.length; i += 10) {
+                const chunks = needsToProcess.slice(i, i + 10);
 
                 const { status } = await axios.post(
                     'https://webhook.site/e7fb8853-a7af-45f4-8a30-64b429cd9131',
@@ -30,10 +31,11 @@ const job = new CronJob('1 * * * * *', async function () {
                 }
             }
 
+            console.log(exceedsRequest); // Needs to proccess for Alert 'Exceeds the limit of 10'
+
             await processBatchResults(successArr, errorArr);
             await axios.delete('http://localhost:5050/requests');
             dateTimeResponse();
-            console.log('Finished to Process');
         }
     } catch (error) {
         console.log(error);
@@ -45,6 +47,7 @@ job.start();
 function updateStatus(records, status) {
     const updatedRecords = records.map((record) => ({
         ...record,
+        numOfReqAttempt: record.numOfReqAttempt + 1,
         status: status,
     }));
     return updatedRecords;
@@ -53,6 +56,21 @@ function updateStatus(records, status) {
 function dateTimeResponse() {
     const dateTime = `${format(new Date(), 'yyyy-MM-dd\tHH:mm:ss')}`;
     return console.log(dateTime);
+}
+
+function separateDataByAttempt(data) {
+    const exceedsRequest = [];
+    const needsToProcess = [];
+
+    for (const obj of data) {
+        if (obj.numOfReqAttempt === 10) {
+            exceedsRequest.push(obj);
+        } else {
+            needsToProcess.push(obj);
+        }
+    }
+
+    return { exceedsRequest, needsToProcess };
 }
 
 async function processBatchResults(successArr, errorArr) {
