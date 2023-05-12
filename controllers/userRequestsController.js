@@ -11,6 +11,10 @@ const getAllUserRequest = async (req, res) => {
             .orderBy('id', 'asc')
             .limit(100)
             .get();
+
+        if (snapshot.empty) {
+            return res.status(404).json({ message: 'There is no Available request' });
+        }
         const documents = snapshot.docs.map((doc) => doc.data());
 
         res.status(200).json(documents);
