@@ -4,10 +4,12 @@ const { format } = require('date-fns');
 
 const batchSize = 2;
 
-const job = new CronJob('*/1 * * * * *', async function () {
+const job = new CronJob('1 * * * * *', async function () {
     dateTimeResponse();
     try {
         const { data: userRequests } = await axios.get('http://localhost:5050/requests');
+        // This one contains the exceedsRequest to 10 and
+        // needs to process array on post Client Api Server
         const { exceedsRequest, needsToProcess } = separateDataByAttempt(userRequests);
 
         if (needsToProcess.length || exceedsRequest.length) {
