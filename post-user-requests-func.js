@@ -27,8 +27,10 @@ const generateRecords = async () => {
   const dbLength = snapshot.size;
 
   const records = [];
+  const limit = 333;
 
-  for (let i = 0; i < 333; i++) {
+  // Iterates until limit to create record and push inside array
+  for (let i = 0; i < limit; i++) {
     const id = dbLength + i;
     const record = {
       id,
@@ -54,6 +56,7 @@ const postRecords = async () => {
     const generatedRecords = await generateRecords();
     console.log(generatedRecords);
 
+    // Posts the records generated to endpoint which handles the payload to firestore
     await axios.post("http://localhost:5050/requests", generatedRecords);
   } catch (error) {
     console.error("Error:", error.response.data.message);

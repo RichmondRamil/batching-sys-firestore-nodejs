@@ -33,6 +33,7 @@ const createUserRequest = async (req, res) => {
       batch.set(docRef, doc);
     });
     batch.commit();
+    res.StatusCode(200).json({message: "Records added successfully"})
   } catch (error) {
     res.json({ message: error });
   }
