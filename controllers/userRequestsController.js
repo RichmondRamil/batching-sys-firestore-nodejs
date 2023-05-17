@@ -1,5 +1,9 @@
-const admin = require('firebase-admin');
-const db = admin.firestore();
+const path = require('path');
+const Firestore = require('@google-cloud/firestore');
+const db = new Firestore({
+    projectId: 'firestore-nodejs-386808',
+    keyFilename: path.join(__dirname, '../key.json'),
+});
 
 const getAllUserRequest = async (req, res) => {
     try {
@@ -25,7 +29,13 @@ const createUserRequest = async (req, res) => {
     try {
         // Accepts Only 500 records will
         const batch = db.batch();
-        const array = req.body;
+        const array = req.body.map((obj) => {
+            return {
+                ...obj,
+                requestDate: Firestore.FieldValue.serverTimestamp(),
+            };
+        });
+
         array.forEach((doc) => {
             var docRef = db.collection('userRequestData').doc(); //automatically generate unique id
             batch.set(docRef, doc);

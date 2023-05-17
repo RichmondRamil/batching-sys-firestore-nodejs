@@ -2,13 +2,7 @@ const path = require('path');
 const express = require('express');
 const app = express();
 
-const admin = require('firebase-admin');
-const credentials = require('./key.json');
 const PORT = process.env.PORT || 5050;
-
-admin.initializeApp({
-    credential: admin.credential.cert(credentials),
-});
 
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
